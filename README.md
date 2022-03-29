@@ -9,6 +9,12 @@
 - 📱 I’m also interested in mobile development.
 - ⚽ I’m a football lover.
 
+### Personal Skills
+
+- Self-taught
+- Teamwork
+
+
 ```
 int main(int argc, char **argv)
 {
@@ -17,7 +23,7 @@ int main(int argc, char **argv)
 }
 
 OUT : 
-I ❤️ C
+I ❤️ C Language
 ```
 
 ### Connect with me, visit my social media accounts with a click on the button at the bottom:
