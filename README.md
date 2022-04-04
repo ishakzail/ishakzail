@@ -1,7 +1,7 @@
 # Hi there, I'm Ishak , I'm Happy to see you here! 👋
-
 <div align="center">
- [![izail's 42 stats](https://badge.mediaplus.ma/binary/izail)](https://github.com/ishakzail/badge42)
+ 
+ [![izail's 42 stats](https://badge.mediaplus.ma/binary/izail)](https://github.com/ishakzail)
 </div>
 
 ## I'm a computer science engineering student
