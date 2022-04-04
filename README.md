@@ -1,7 +1,12 @@
 # Hi there, I'm Ishak , I'm Happy to see you here! 👋
 
 ## I'm a computer science engineering student
-  
+<div align="center">
+ 
+ [![izail's 42 stats](https://badge.mediaplus.ma/binary/izail)](https://github.com/izail/badge42)
+ 
+
+</div>
 [//]: <> (- 👉 I'm currently learning)
 - 👉 In few days, i will launch my personal website.
 - 🎓 I'm currently studying at 1337 School
