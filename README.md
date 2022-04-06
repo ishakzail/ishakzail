@@ -4,7 +4,9 @@
  [![izail's 42 stats](https://badge.mediaplus.ma/binary/izail)](https://github.com/ishakzail)
 </div>
 
-![](https://komarev.com/ghpvc/?username=ishakzail&color=green)
+## Glad you're here
+
+![](https://komarev.com/ghpvc/?username=ishakzail&color=blue)
 
 ## I'm a computer science engineering student
 
