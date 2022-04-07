@@ -37,7 +37,7 @@ I ❤️ C Language
 
 [<img align="left" alt="ishakzail | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="ishakzail | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="jamalsahri | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="ishakzail | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/ishak-zail
 [twitter]: https://twitter.com/ishakzail
