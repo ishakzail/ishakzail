@@ -40,5 +40,5 @@ I ❤️ C Language
 [<img align="left" alt="ishakzail | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/ishak-zail
-[twitter]: https://twitter.com/ishakzail
+[twitter]: https://twitter.com/ishak_zail
 [instagram]: https://www.instagram.com/ishakzail
