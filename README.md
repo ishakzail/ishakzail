@@ -33,6 +33,12 @@ OUT :
 I ❤️ C Language
 ```
 
+### Badges
+
+<a href="http://www.github.com/ishakzail"><img src="https://github-readme-stats.vercel.app/api?username=ishakzail&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ishakzail's GitHub stats" /></a>
+
+
+
 ### Connect with me, visit my social media accounts with a click on the button at the bottom:
 
 [<img align="left" alt="ishakzail | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
