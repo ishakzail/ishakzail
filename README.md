@@ -11,7 +11,7 @@
 ## I'm a computer science engineering student
 
 - 👉 In few days, i will launch my personal website.
-- 🎓 I'm currently studying at 1337 School
+- 🎓 I'm currently seeking internships positionns
 - 😍 Passionate about web development and new technologies.
 - 📱 I’m also interested in mobile development.
 - ⚽ I’m a football lover.
