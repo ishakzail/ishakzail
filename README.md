@@ -10,8 +10,7 @@
 
 ## I'm a computer science engineering student
 
-- 👉 In few days, i will launch my personal website.
-- 🎓 I'm currently seeking internships positionns
+- 🎓 I'm currently seeking internships positions as Web/Mobile Developer
 - 😍 Passionate about web development and new technologies.
 - 📱 I’m also interested in mobile development.
 - ⚽ I’m a football lover.
